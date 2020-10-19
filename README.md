@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/formux-dev/info/main/logo.png" width="150px"/>
+  <img alt="logo" src="https://raw.githubusercontent.com/formux-dev/info/main/logo.png" width="150px"/>
 </p>
 
 <h1 align="center">Formux</h1>
