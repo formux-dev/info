@@ -1,7 +1,10 @@
-<img align="center" src="https://raw.githubusercontent.com/formux-dev/info/main/logo.png"/>
-<h1 align="center">Formux</h1>
-<h3 align="center">A is school project (called Gymnasiearbete in sweden) exploring automated form A/B testing.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/formux-dev/info/main/logo.png" width="150px"/>
+</p>
 
+<h1 align="center">Formux</h1>
+<p align="center">A is school project (called Gymnasiearbete in sweden)<br/>exploring automated form A/B testing.</p>
+<p align="center"></p>
 
 
 ## Why use Formux
