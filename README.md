@@ -1,7 +1,6 @@
-<p align="center">
- <h1>Information about Formux</h1>
- <h3>Formux is School project (called Gymnasiearbete in sweden) exploring automated form A/B testing.
-</p>
+<h1 align="center">Information about Formux</h1>
+<h3 align="center">Formux is School project (called Gymnasiearbete in sweden) exploring automated form A/B testing.
+
 
 
 ## Why use Formux
