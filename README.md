@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Formux</h1>
-<p align="center">A is school project (called Gymnasiearbete in sweden)<br/>exploring automated form A/B testing.</p>
+<p align="center">A school project (called Gymnasiearbete in sweden)<br/>exploring automated form A/B testing.</p>
 <p align="center"></p>
 
 
