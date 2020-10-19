@@ -1,6 +1,6 @@
 <p align="center">
- # Information about Formux
-  ### Formux is School project (called Gymnasiearbete in sweden) exploring automated form A/B testing. We are building a [web app(https://github.com/formux-dev/web-user) capable of displaying any form sent from our [backend](https://github.com/formux-dev/backend). 
+ <h1>Information about Formux</h1>
+ <h3>Formux is School project (called Gymnasiearbete in sweden) exploring automated form A/B testing. We are building a [web app(https://github.com/formux-dev/web-user) capable of displaying any form sent from our [backend](https://github.com/formux-dev/backend).</h3>
 </p>
 
 
