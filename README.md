@@ -8,7 +8,7 @@
 
 
 ## Why use Formux?
-Formux is a form platform. What makes Formux stand out is it's ablilty to change theming on the fly, based on user feedback. We have the ablity to load a theme config when the form loads. When a user completes a form in the web app, they are asked to rate the desing of the form on a scale form 1 to 5. This informs our backend about how the theme presented to the user preformed. 
+Formux is a form platform. What makes Formux stand out is its ability to change theming on the fly, based on user feedback. We have the ability to load a theme config when the form loads. When a user completes a form in the web app, they are asked to rate the design of the form on a scale from 1 to 5. This informs our backend about how the theme presented to the user preformed.
 
 ## Sounds great, how do I try it?
 We are still in the process of fleshing out the system. The MVP will not have a complete admin UI for creating forms and displaying responses. It will just focus on making the end-user experience and theme optimization as smooth as possible.
