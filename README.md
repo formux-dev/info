@@ -14,7 +14,7 @@ Formux is a form platform. What makes Formux stand out is its ability to change 
 We are still in the process of fleshing out the system. The MVP will not have a complete admin UI for creating forms and displaying responses. It will just focus on making the end-user experience and theme optimization as smooth as possible.
 
 ## What are the repositoies for 
-We are building a [web app(https://github.com/formux-dev/web-user) capable of displaying any form sent from our [backend](https://github.com/formux-dev/backend). After of MVP we are builing the [admin UI](https://github.com/formux-dev/web-admin) too.
+We are building a [web app](https://github.com/formux-dev/web-user) capable of displaying any form sent from our [backend](https://github.com/formux-dev/backend). There is also have an [admin panel](https://github.com/formux-dev/web-admin).
 
 ## I want to help
 Contributions are welcome! We'll check for new ones regularly and review them as fast as possible.
